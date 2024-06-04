@@ -1,4 +1,4 @@
-# Welcome to Astralen.
+# Welcome to Astralen
 
 ## A public social role-playing server.
 
