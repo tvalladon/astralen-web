@@ -3,7 +3,8 @@
 ## A public social role-playing server.
 
 [Connect via Web Terminal](https://webterm.astralen.quest)
+[Connect Using Popout Web Terminal](# "openPopup")
 
-<script>
-	console.log('Testing javascript in markdown...')
-</script>
+
+
+<script> document.addEventListener("DOMContentLoaded", function() { var link = document.querySelector('a[href="#"][title="openPopup"]'); if (link) { link.addEventListener("click", function(event) { event.preventDefault(); openPopup(); }); } }); function openPopup() { var url = "https://webterm.astralen.quest"; var width = 800; var height = 600; var options = "toolbar=no, location=no, status=no, menubar=no, scrollbars=no, resizable=yes, width=" + width + ", height=" + height; window.open(url, "_blank", options); } </script>
