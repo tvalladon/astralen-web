@@ -6,6 +6,10 @@ Notice that the guide on [[Consent in Role-Playing]] is the first page? Above al
 
 Current guides:
  * [[Consent in Role-Playing]]
+
  * [[Introduction]]
+
  * [[Commands Guide]]
+
  * [[Examples of Player Interactions]]
+
