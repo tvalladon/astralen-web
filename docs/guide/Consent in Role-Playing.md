@@ -110,23 +110,33 @@ Show players how to set and respect boundaries in a positive and constructive ma
 #### Sample Dialogue for Consent
 
 **Combat Scene:**
+
  * ***Player A**: `ooc Are you okay with our characters getting into a fight?`
+ 
  * **Player B**: `ooc Yes, but let's keep it non-lethal.`
 
 **Romantic Scene:**
+
  * **Player A**: `ooc Would you be comfortable with our characters developing a romantic relationship?`
+ 
  * **Player B**: `ooc I'm open to it, but let's take it slow and see how it goes.`
 
 **Exploring Sensitive Topics:**
+
  * **Player A**: `ooc Is it alright if we delve into your character's backstory involving their family?`
+ 
   * *Player B**: `ooc Sure, but please avoid detailed descriptions of any traumatic events.`
 
 **Exploring Dark Themes:**
+ 
  * **Player A**: `ooc Are you okay with exploring a darker theme for this storyline?`
+ 
  * **Player B**: `ooc I'm okay with it, but let's avoid anything too graphic.`
 
 **Introducing Plot Twists:**
+ 
  * **Player A**: `ooc I have an idea for a plot twist that involves betrayal. Are you okay with that?`
+ 
  * **Player B**: `ooc Sounds interesting, but let's discuss how it affects our characters.`
 
 By following these guidelines, players can ensure a respectful and enjoyable role-playing environment on Astralen. Consent is key to maintaining trust and comfort, allowing everyone to immerse themselves fully in the game.

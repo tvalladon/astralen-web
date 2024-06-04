@@ -28,6 +28,7 @@
 **Dwarf Warrior**: `dice 1d20+4`
 
 **Orc Shaman**: `dice 1d20+3`
+
 - The system displays the results:
 
 ```
@@ -52,6 +53,7 @@
 **Human Rogue**: `dice 1d20+5`
 
 **Elf Merchant**: `dice 1d20+2`
+
 - The system displays the results:
 ```
 [Human Rogue] rolls: 1d20+5
@@ -100,6 +102,7 @@
 **Elf Mage**: `dice 1d20+6`
 
 **Enemies**: `dice 1d20+3`
+
 - The system displays the results:
 ```
 [Human Paladin] rolls: 1d20+4
@@ -126,6 +129,7 @@
 **Druid**: `say I will heal your wounds. Hold still.`
 
 **Druid**: `dice 2d8+4`
+
 - The system displays the results:
 ```
 [Druid] rolls: 2d8+4
@@ -141,6 +145,7 @@
 **Sorcerer**: `say Feel the power of the elements!`
 
 **Sorcerer**: `dice 3d6+2`
+
 - The system displays the results:
 ```
 [Sorcerer] rolls: 3d6+2
@@ -157,6 +162,7 @@
 **Elf Scout**: `act examines the ground carefully.`
 
 **Elf Scout**: `dice 1d20+5`
+
 - The system displays the results:
 ```
 [Elf Scout] rolls: 1d20+5
