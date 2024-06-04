@@ -1,11 +1,5 @@
-# Obsidian Notes
+# Welcome to Astralen.
 
-Publish your public notes with MkDocs
+## A public social role-playing server.
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+[Connect via Web Terminal](https://webterm.astralen.quest)
