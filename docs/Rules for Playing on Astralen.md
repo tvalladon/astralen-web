@@ -5,6 +5,7 @@ Welcome to Astralen! To ensure a fun and respectful environment for all players,
 
  * 1.1 **Be Respectful**: Treat all players with respect and courtesy. Harassment, bullying, or discriminatory behavior will not be tolerated.
  * 1.2 **No Hate Speech**: Any form of hate speech, including racist, sexist, homophobic, or otherwise offensive remarks, is strictly prohibited.
+	 * 1.2.1 If you feel your character's backstory would make them racist, sexist, homophobic, etc., then you need to create a different character.
 
 #### 2. Role-Playing Etiquette
 
