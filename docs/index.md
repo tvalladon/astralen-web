@@ -3,6 +3,7 @@
 ## A public social role-playing server.
 
 [Connect via Web Terminal](https://webterm.astralen.quest)
+
 [Connect Using Popout Web Terminal](# "openPopup")
 
 
