@@ -12,7 +12,7 @@ tags:
 ---
 # New Zone Editor Software: Simplifying Zone Creation for Node Talker
 
-Over the past week, I have been focused on developing an in-browser zone editor tool, designed to streamline the process of creating and managing zones for the Node Talker telnet social role-playing server system. This tool is a game-changer for builders, offering a more intuitive and efficient way to get started.
+Over the past week, I have been focused on developing an in-browser zone editor tool, designed to streamline the process of creating and managing zones for the [Node Talker](https://github.com/tvalladon/node-talker) telnet social role-playing server system. This tool is a game-changer for builders, offering a more intuitive and efficient way to get started.
 
 ## Why This Tool?
 As someone who ran a CircleMUD many years ago, I know the limitations and steep learning curves associated with traditional file editors and in-game builders. These older tools required extensive training and had significant constraints. This new web-based zone editor aims to address these issues, making it easier and quicker for builders to create rich, immersive zones.
@@ -43,6 +43,6 @@ While the tool currently meets my personal needs, I plan to add more features in
 I welcome contributions from the community. Whether it's fixing bugs, adding new features, or improving documentation, your help is invaluable. Feel free to fork the repository, make changes, and submit a PR back to the source project. Let's collaborate to make this tool even better!
 
 ## Conclusion
-This zone editor tool is designed to make building zones for Node Talker more accessible and efficient. If you encounter any issues or have suggestions, please let me know. Your feedback is crucial for the continuous improvement of this tool.
+This zone editor tool is designed to make building zones for [Node Talker](https://github.com/tvalladon/node-talker) more accessible and efficient. If you encounter any issues or have suggestions, please let me know. Your feedback is crucial for the continuous improvement of this tool.
 
-Check out the demo, explore the features, and start building amazing zones for your Node Talker server!
+Check out the demo, explore the features, and start building amazing zones for your [Node Talker](https://github.com/tvalladon/node-talker) server!
