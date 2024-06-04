@@ -64,10 +64,19 @@ Movement is an integral part of role-playing on Astralen. Depending on the verb 
 
 ## Examination Commands
 
-Players can also examine objects or other players using different verbs:
+Players can also examine room objects, themselves, exits or other players using different verbs:
+
+- **look**:
+  - **Example**: `[player name] looks at the room.`
+
+- **inspect self**:
+  - **Example**: `[player name] inspects themselves.`
 
 - **examine supplies**:
   - **Example**: `[player name] examines the supplies.`
+
+- **check north**:
+  - **Example**: `[player name] checks north.`
 
 - **glance another player**:
   - **Example**: `[player name] glances at [another player].`
@@ -75,3 +84,49 @@ Players can also examine objects or other players using different verbs:
 ### Complete List of Examination Aliases
 
 `look, read, examine, inspect, view, check, study, observe, scrutinize, survey, glance, explore, focus, glimpse, stare, peek, analyze, notice, identify`
+
+## Dice Commands
+
+For contested actions, players can roll dice using the following commands:
+
+- **dice**: Roll dice and broadcast the result in the same room.
+  - **Usage**: `dice <dice>`
+  - **Example**: `dice 2d6+3`
+  - **Output**:
+    ```
+    > dice 2d6+3
+    [player name] rolls: 2d6+3
+    2, 6 = 8 + 3 = 11
+    ```
+
+- **ldice**: Roll dice and broadcast the result in the same and adjacent rooms.
+  - **Usage**: `ldice <dice>`
+  - **Example**: `ldice 1d20-2`
+  - **Output**:
+    ```
+    > ldice 1d20-2
+    [player name] rolls: 1d20-2
+    15 = 15 - 2 = 13
+    ```
+
+- **gdice**: Roll dice and broadcast the result globally across the server.
+  - **Usage**: `gdice <dice>`
+  - **Example**: `gdice 2d20adv`
+  - **Output**:
+    ```
+    > gdice 2d20adv
+    [player name] rolls: 2d20adv
+     > Adv: 15 = 15
+       Dis: 11 = 11
+    ```
+
+### Dice Roll Format
+
+Use the following format for dice rolls:
+
+- `<number of dice>d<dice sides>[+/-<modifier>][adv/dis]`
+  - **Examples**:
+    - `dice 2d6+3`
+    - `dice 1d20-2`
+    - `dice 2d20adv`
+    - `dice 4d10-2dis`
