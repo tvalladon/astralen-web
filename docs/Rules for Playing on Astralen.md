@@ -35,13 +35,13 @@ Welcome to Astralen! To ensure a fun and respectful environment for all players,
 
 #### 7. Reporting Issues
 
- * 7.1 **Report Violations**: Report any rule violations to the moderators or administrators. Use in-game commands or join the [Discord](#) to contact a moderator.
+ * 7.1 **Report Violations**: Report any rule violations to the moderators or administrators. Use in-game commands or join the [[Discord]] to contact a moderator.
  * 7.2 **Provide Details**: When reporting an issue, provide as much detail as possible to help moderators address the problem effectively.
 
 #### 8. Community and Support
 
- * 8.1 **Join the Community**: Connect with other players on our [Discord](#) for support and community events.
- * 8.2 **Ask for Help**: If you have questions or need assistance, use the `help` command or reach out to a moderator on Discord.
+ * 8.1 **Join the Community**: Connect with other players on our [[Discord]] for support and community events.
+ * 8.2 **Ask for Help**: If you have questions or need assistance, use the `help` command or reach out to a moderator on [[Discord]].
 
 ### Example Scenarios and Guidelines
 

@@ -76,11 +76,11 @@ Once logged in, users have access to all communication commands, including those
 ### Resources for New Players
 - **Commands**: type "`help`" in game for a list of all commands an aliases.
 - **Guides**: Visit our website for detailed information.
-- **Discord**: Join our community on [Discord](#) for support and to connect with other players.
+- **Discord**: Join our community on [[Discord]] for support and to connect with other players.
 
 ### Getting Help
 - **Help Commands**: Use the `help` command to get in-game assistance.
-- **Discord**: If you encounter any issues, join our [Discord](#) for support.
+- **Discord**: If you encounter any issues, join our [[Discord]] for support.
 
 ## Example Role-Playing Scenario
 

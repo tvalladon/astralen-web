@@ -39,7 +39,7 @@
 	 * If a player expresses discomfort during a scene, stop immediately and address their concerns. For example, if someone says `ooc I'm not okay with this,` respond with `ooc Let's pause and discuss what we can change.`
 
 2. **Reporting and Resolution**
-	 * If a violation occurs, report it to the moderators or administrators. Use the appropriate in-game commands or contact methods, such as joining the [Discord](#) and messaging a moderator. Explain the situation clearly and respectfully.
+	 * If a violation occurs, report it to the moderators or administrators. Use the appropriate in-game commands or contact methods, such as joining the [[Discord]] and messaging a moderator. Explain the situation clearly and respectfully.
 
 #### Creating a Culture of Consent
 
