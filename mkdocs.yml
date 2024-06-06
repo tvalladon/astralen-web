@@ -1,6 +1,7 @@
 site_name: Astralen.Quest
 
 theme:
+    logo: assets/logo.png
     name: 'material'
     palette:
 
