@@ -8,16 +8,15 @@
  * Connect using telnet: `telnet connect.astralen.quest 3000`
  * Connect using a mud client: `Host: connect.astralen.quest Port: 3000`
 
+#### Rules:
+
+ * [[Rules for Playing on Astralen]]
 #### Guide:
 
  * [[Consent in Role-Playing]]
  * [[Introduction]]
  * [[Commands Guide]]
  * [[Examples of Player Interactions]]
-
-#### Rules:
-
- * [[Rules for Playing on Astralen]]
 
 #### About
 
