@@ -1,3 +1,4 @@
+![[Astralen_Logo2.png]]
 # Welcome to Astralen
 
 ## A public social role-playing server.
