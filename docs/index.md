@@ -17,7 +17,8 @@
  * [[Introduction]]
  * [[Commands Guide]]
  * [[Examples of Player Interactions]]
-
+#### Discord
+ * Join our [[Discord]] server
 #### About
 
 Astralen is built using [node-talker](https://github.com/tvalladon/node-talker), and is the primary demo server for those wishing to see the software in action.
