@@ -11,12 +11,13 @@
 #### Rules
 
  * [[Rules for Playing on Astralen]]
-#### Guide
+ * [[Discord Server Rules]]
+#### Guides
 
- * [[Consent in Role-Playing]]
- * [[Introduction]]
- * [[Commands Guide]]
- * [[Examples of Player Interactions]]
+ 1. [[Consent in Role-Playing]]
+ 2. [[Introduction]]
+ 3. [[Commands Guide]]
+ 4. [[Examples of Player Interactions]]
 #### Discord
  * Join our [[Discord]] server
 #### About
