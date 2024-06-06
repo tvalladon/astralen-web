@@ -1,4 +1,4 @@
-![[Astralen_Logo2.png]]
+![[Astralen_Logo.png]]
 # Welcome to Astralen
 
 ## A public social role-playing server.
@@ -8,10 +8,10 @@
  * Connect using telnet: `telnet connect.astralen.quest 3000`
  * Connect using a mud client: `Host: connect.astralen.quest Port: 3000`
 
-#### Rules:
+#### Rules
 
  * [[Rules for Playing on Astralen]]
-#### Guide:
+#### Guide
 
  * [[Consent in Role-Playing]]
  * [[Introduction]]
